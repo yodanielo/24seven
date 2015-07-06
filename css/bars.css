@@ -1,0 +1,128 @@
+.linkbasic strong{
+    color: #97BE0D;
+}
+/*menu*/
+#directory:hover{
+    background:url(../images/directory-1.gif) no-repeat;
+}
+#directory{
+    display:inline; float:right;
+    width:61px;
+    height:20px;
+    background:url(../images/directory-0.gif) no-repeat;
+}
+/*menu inicio*/
+#wheretostay:hover{
+    background:url(../images/where-to-stay-1.gif) no-repeat;
+}
+#wheretostay{
+    display:inline; float:right;
+    width:90px;
+    height:20px;
+    background:url(../images/where-to-stay-0.gif) no-repeat;
+}
+
+#yourrecomendations:hover{
+    background:url(../images/your-recomendations-1.gif) no-repeat;
+}
+#yourrecomendations{
+    display:inline; float:right;
+    width:136px;
+    height:20px;
+    background:url(../images/your-recomendations-0.gif) no-repeat;
+}
+#tipsforyouvisit:hover{
+    background:url(../images/tips-for-your-visit-1.gif) no-repeat;
+}
+#tipsforyouvisit{
+    display:inline; float:right;
+    width:116px;
+    height:20px;
+    background:url(../images/tips-for-your-visit-0.gif) no-repeat;
+}
+#itineraries:hover{
+    background:url(../images/itineraries-1.gif) no-repeat;
+}
+#itineraries{
+    display:inline; float:right;
+    width:73px;
+    height:20px;
+    background:url(../images/itineraries-0.gif) no-repeat;
+}
+#downloadthemap:hover{
+    background:url(../images/download-the-map-1.gif) no-repeat;
+}
+#downloadthemap{
+    display:inline; float:right;
+    width:120px;
+    height:20px;
+    background:url(../images/download-the-map-0.gif) no-repeat;
+}
+
+/*submenu*/
+#food,
+#food_selected{
+    width:58px;
+    height:26px;
+    display:inline; float:right;
+    background:url(../images/food-0.gif) no-repeat;
+}
+#food:hover,
+#food_selected{
+    background:url(../images/food-1.gif) no-repeat;
+}
+#bars,
+#bars_selected{
+    background:url(../images/bars-0.gif) no-repeat;
+    width:60px;
+    height:26px;
+    display:inline; float:right;
+}
+#bars:hover,
+#bars_selected{
+    background:url(../images/bars-1.gif) no-repeat;
+}
+#nightlife,
+#nightlife_selected{
+    width:108px;
+    height:26px;
+    display:inline; float:right;
+    background:url(../images/nightlife-0.gif) no-repeat;
+}
+#nightlife:hover,
+#nightlife_selected{
+    background:url(../images/nightlife-1.gif) no-repeat;
+}
+#culture,
+#culture_selected{
+    width:95px;
+    height:26px;
+    display:inline; float:right;
+    background:url(../images/culture-0.gif) no-repeat;
+}
+#culture:hover,
+#culture_selected{
+    background:url(../images/culture-1.gif) no-repeat;
+}
+#shopping,
+#shopping_selected{
+    width:98px;
+    height:26px;
+    display:inline; float:right;
+    background:url(../images/shopping-0.gif) no-repeat;
+}
+#shopping:hover,
+#shopping_selected{
+    background:url(../images/shopping-1.gif) no-repeat;
+}
+
+.jqmWindow {
+    display: none;
+    position: absolute;
+    top: 72px;
+    margin-left: 50%;
+    /*height:800px;*/
+    float:left;
+    background-color:#97BE0D;
+    color:#fff;
+}

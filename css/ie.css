@@ -1,0 +1,42 @@
+#pubcol1{
+    display:inline; float:left;
+    margin-left:20px;
+    margin-top:-17px;
+    width:252px;
+}
+#pubcol1 #pubbarracompartir{
+    width:242px;
+    padding-left:5px;
+    top:-4px;
+    position:relative;
+}
+.comentario{
+    margin-left:0px;
+}
+#cuadrosiguenos{
+    float:left;
+    border:5px solid #999999;
+    background:#fff;
+    position:absolute;
+    margin-top:30px;
+    margin-left: -92px;
+    padding-bottom: 5px;
+    display:block;
+}
+
+.jScrollPaneContainer {
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+        width:261px;
+        height:376px;
+        margin-right:-14px;
+        margin-left:7px;
+        display:inline;
+}
+.jScrollPaneTrack {
+        margin-right:10px;
+}
+#pubfoto{
+        margin-left:222px;
+}
